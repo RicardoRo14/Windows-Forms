@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Ricardo\source\repos\MisFormularios\Formulario Prueba\Elipse.h(14,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Formulario Prueba.vcxproj -> C:\Users\Ricardo\source\repos\MisFormularios\Debug\Formulario Prueba.exe

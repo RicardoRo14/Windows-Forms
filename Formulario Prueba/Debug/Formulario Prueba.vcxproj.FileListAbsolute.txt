@@ -1,0 +1,3 @@
+C:\Users\Ricardo\source\repos\MisFormularios\Formulario Prueba\Debug\Formulario Prueba.vcxproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\MisFormularios\Formulario Prueba\Debug\FormularioPrueba.MyForm.resources
+C:\Users\Ricardo\source\repos\MisFormularios\Formulario Prueba\Debug\Formulario Prueba.vcxproj.GenerateResource.cache
