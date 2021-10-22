@@ -1,0 +1,3 @@
+C:\Users\Ricardo\source\repos\MisFormularios\Moviendo Figuras\Debug\Moviendo Figuras.vcxproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\MisFormularios\Moviendo Figuras\Debug\MoviendoFiguras.MyForm.resources
+C:\Users\Ricardo\source\repos\MisFormularios\Moviendo Figuras\Debug\Moviendo Figuras.vcxproj.GenerateResource.cache
